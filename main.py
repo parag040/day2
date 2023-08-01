@@ -1,3 +1,2 @@
 print("Hello World")
-print("How are you")
-print("I am fine")
+print("Hii parag you are softwere developer")
